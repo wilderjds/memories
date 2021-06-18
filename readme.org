@@ -1,0 +1,12 @@
+Fork, edit and submit a pull request, or 
+just comment on [[https://www.reddit.com/r/programming/comments/o2rvke/share_your_memories_of_your_past_programming][Reddit]] to add your memories
+
+* DOS era
+:PROPERTIES:
+:CREATED:  [2021-06-18 Fri 11:08]
+:END:
+
+- Ralf Brown's [[http://www.delorie.com/djgpp/doc/rbinter/][interrupt list]]
+- my CRT monitor hissing when setting graphics [[https://en.m.wikipedia.org/wiki/Mode_X][mode X]]
+- DOS/4GW (or [[https://en.m.wikipedia.org/wiki/DOS/32][dos32]] for the cool kids)
+

@@ -1,5 +1,4 @@
-Fork, edit and submit a pull request, or 
-just comment on [[https://www.reddit.com/r/programming/comments/o2rvke/share_your_memories_of_your_past_programming][Reddit]] to add your memories
+Fork, edit and submit a pull request
 
 * DOS era
 :PROPERTIES:
